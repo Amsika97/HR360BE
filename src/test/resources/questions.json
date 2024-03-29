@@ -1,0 +1,353 @@
+[
+  {
+    "questionId": "L1",
+    "questionSectionId": "56648810",
+    "level":"Leads",
+    "questionType": "Score",
+    "question": "How do you see yourself seeking challenges and open to new learnings?",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "L2",
+    "questionSectionId": "56648810",
+    "level":"Leads",
+    "questionType": "Score",
+    "question": "How do you rate yourself on having a trusted relationship and being a go-to person for your team?",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "L3",
+    "questionSectionId": "56648810",
+    "level":"Leads",
+    "questionType": "Score",
+    "question": "How do you assess yourself on your ability to energize, influence and collaborate across teams/streams?",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "L4",
+    "questionSectionId": "56648810",
+    "level":"Leads",
+    "questionType": "Score",
+    "question": "How do you assess yourself on caring and nurturing of your team members?",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "L5",
+    "questionSectionId": "56648810",
+    "level":"Leads",
+    "questionType": "Score",
+    "question": "How do you rate yourself on balancing both customer and people priorities in your current role?",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "L6",
+    "questionSectionId": "56648810",
+    "level":"Leads",
+    "questionType": "Message",
+    "question": "How would you rate yourself on identifying and grooming potential leaders aligned to our culture?",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "T1",
+    "questionSectionId": "936938825",
+    "level":"Leads",
+    "questionType": "Score",
+    "question": "How do you rate yourself on your practice of defining the project specific R&R and KRAs for the team members ? (to direct reportees and to the next levels by Direct reportees?",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "T2",
+    "questionSectionId": "936938825",
+    "level":"Leads",
+    "questionType": "Score",
+    "question": " How do you rate yourself on your practice of evaluating the skill gap of a team member against the project role requirement and addressing it through training and other means?",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "T3",
+    "questionSectionId": "936938825",
+    "level":"Leads",
+    "questionType": "Score",
+    "question": " How do you rate yourself on your practice of having a periodic discussion with team members providing insights to them on areas that they have done well on and areas to be strengthened?",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "T4",
+    "questionSectionId": "936938825",
+    "level":"Leads",
+    "questionType": "Score",
+    "question": "How do you rate yourself on your practice of recognizing and appreciating the good work done by the team in a timely manner?",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "T5",
+    "questionSectionId": "936938825",
+    "level":"Leads",
+    "questionType": "Score",
+    "question": "How do you rate yourself on your practice of ensuring exceptional learning and exceptional projects to the team members?",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "T6",
+    "questionSectionId": "936938825",
+    "level":"Leads",
+    "questionType": "Score",
+    "question": "How do you rate yourself on your ability to connect with your team at a personal level to understand their challenges and provide personal & professional support when required?",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "T7",
+    "questionSectionId": "936938825",
+    "level":"Leads",
+    "questionType": "Score",
+    "question": "How would you rate yourself on your ability to positively work and collaborate with cross-functional teams?",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "T8",
+    "questionSectionId": "936938825",
+    "level":"Leads",
+    "questionType": "Score",
+    "question": "Please mention the key team management aspects that you are performing well on",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "T9",
+    "questionSectionId": "936938825",
+    "level":"Leads",
+    "questionType": "Message",
+    "question": "Please mention the team management aspects that you can improvise and do more on",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "T10",
+    "questionSectionId": "936938825",
+    "level":"Leads",
+    "questionType": "Message",
+    "question": "Please mention the team management aspects that you can improvise and do more on",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "C1",
+    "questionSectionId": "926625307",
+    "level":"Leads",
+    "questionType": "Score",
+    "question": "How do you rate yourself on your understanding on Customer Org structure & mapping of stakeholders as per their power & interest on the project delivery?",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "C2",
+    "questionSectionId": "926625307",
+    "level":"Leads",
+    "questionType": "Score",
+    "question": "How do you rate yourself on your understanding on different stakeholder expectations from your team and managing those expectations?",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "C3",
+    "questionSectionId": "926625307",
+    "level":"Leads",
+    "questionType": "Score",
+    "question": "How would you rate your ability to provide differentiated and contextual solutions to meet customer requirements?",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "C4",
+    "questionSectionId": "926625307",
+    "level":"Leads",
+    "questionType": "Score",
+    "question": "How do you rate yourself on your ability to confidently lead insight-led engagement with the Project / Program stakeholders including 1 level above your counterparts?",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "C5",
+    "questionSectionId": "926625307",
+    "level":"Leads",
+    "questionType": "Score",
+    "question": "How do you rate client's confidence in your technical/consulting abilities for delivery related issues?",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "C6",
+    "questionSectionId": "926625307",
+    "level":"Leads",
+    "questionType": "Message",
+    "question": "How do you rate your knowledge on the different services that Maveric offers to its clients?",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "C7",
+    "questionSectionId": "926625307",
+    "level":"Leads",
+    "questionType": "Message",
+    "question": "Please mention the key customer management aspects that you are performing well on",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "C8",
+    "questionSectionId": "926625307",
+    "level":"Leads",
+    "questionType": "Message",
+    "question": "Please mention the customer management aspects that you can improvise and do more on",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "D1",
+    "questionSectionId": "78656103",
+    "level":"Leads",
+    "questionType": "Score",
+    "question": "How do you rate your knowledge on different project types & contract models (T&M, Fixed bid, Outcome based, Managed, Co-managed etc.) ?",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "D2",
+    "questionSectionId": "78656103",
+    "level":"Leads",
+    "questionType": "Score",
+    "question": "How do you rate your clarity & understanding on the Sales to Delivery handover of the contracted project terms  (cost / scope / time / efforts)?",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "D3",
+    "questionSectionId": "78656103",
+    "level":"Leads",
+    "questionType": "Score",
+    "question": "How do you rate your expertise in domain knowledge as against what's required for you current role?",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "D4",
+    "questionSectionId": "78656103",
+    "level":"Leads",
+    "questionType": "Score",
+    "question": "How do you rate your expertise in technical areas as against what's required for your current role?",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "D5",
+    "questionSectionId": "78656103",
+    "level":"Leads",
+    "questionType": "Message",
+    "question": "How do you rate your ability to manage scope/efforts against baseline and take corrective actions based on progress/change?",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "D6",
+    "questionSectionId": "78656103",
+    "level":"Leads",
+    "questionType": "Message",
+    "question": "How do you rate your ability to identify risks early and manage risk with appropriate mitigation plans proactively? ",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "D7",
+    "questionSectionId": "78656103",
+    "level":"Leads",
+    "questionType": "Score",
+    "question": "How do you rate your ability to create contextual & insightful dashboard/reports aligned to stakeholders?",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "D8",
+    "questionSectionId": "78656103",
+    "level":"Leads",
+    "questionType": "Score",
+    "question": "How do you rate your ability to manage internal & external governance effectively?",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "D9",
+    "questionSectionId": "78656103",
+    "level":"Leads",
+    "questionType": "Score",
+    "question": "How do you rate your commercial accumen to strategize cost effective proposals and/or maintain/improve healthy gross margin?",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "D10",
+    "questionSectionId": "78656103",
+    "level":"Leads",
+    "questionType": "Score",
+    "question": "How do you rate yourself on your practice to drive delivery excellence & impact through continuous improvements & Step changes?",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "D11",
+    "questionSectionId": "78656103",
+    "level":"Leads",
+    "questionType": "Score",
+    "question": "Please mention the key customer management aspects that you are performing well on",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "D12",
+    "questionSectionId": "78656103",
+    "level":"Leads",
+    "questionType": "Score",
+    "question": "Please mention the customer management aspects that you can improvise and do more on",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "D13",
+    "questionSectionId": "78656103",
+    "level":"Leads",
+    "questionType": "Score",
+    "question": "Please list down any Domain related trainings that you wish to attend.",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "D14",
+    "questionSectionId": "78656103",
+    "level":"Leads",
+    "questionType": "Score",
+    "question": "Please list down the topics under Project/Delivery management where you need trainings to be arranged.",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  },
+  {
+    "questionId": "D15",
+    "questionSectionId": "78656103",
+    "level":"Leads",
+    "questionType": "Score",
+    "question": "Please list down any technical trainings that you wish to attend.",
+    "createdBy": "Sri",
+    "updatedBy": "Sri"
+  }
+]

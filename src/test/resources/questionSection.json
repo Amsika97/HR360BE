@@ -1,0 +1,37 @@
+{
+  "sectionName": "DELIVERY MANAGEMENT",
+  "weightages": [
+    {
+      "respondentCategory": "Skip Level Manager",
+      "weightage": 0.3,
+      "createdBy":"sri",
+      "updatedBy":"sri"
+    },
+    {
+      "respondentCategory": "Direct Manager",
+      "weightage": 0.6,
+      "createdBy":"sri",
+      "updatedBy":"sri"
+    },
+    {
+      "respondentCategory": "Peer",
+      "weightage": 0.1,
+      "createdBy":"sri",
+      "updatedBy":"sri"
+    },
+    {
+      "respondentCategory": "Direct Reportee",
+      "weightage": 0,
+      "createdBy":"sri",
+      "updatedBy":"sri"
+    },
+    {
+      "respondentCategory": "Skip Level Reportee",
+      "weightage": 0,
+      "createdBy":"sri",
+      "updatedBy":"sri"
+    }
+  ],
+  "createdBy": "sri",
+  "updatedBy": "sri"
+}

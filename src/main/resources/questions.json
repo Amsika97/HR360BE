@@ -1,0 +1,309 @@
+[
+  {
+    "questionId": "L1",
+    "questionSectionId": "56648810",
+    "level": "Leads",
+    "questionType": "Score",
+    "sequence": 1,
+    "question": "How do you assess yourself on ability to influence and collaborate across project teams?",
+    "createdBy": "admin",
+    "updatedBy": "admin"
+  },
+  {
+    "questionId": "L2",
+    "questionSectionId": "56648810",
+    "level": "Leads",
+    "questionType": "Score",
+    "sequence": 2,
+    "question": "How do you see yourself on inclination towards seeking challenges and being open to new learnings?",
+    "createdBy": "admin",
+    "updatedBy": "admin"
+  },
+  {
+    "questionId": "L3",
+    "questionSectionId": "56648810",
+    "level": "Leads",
+    "questionType": "Score",
+    "sequence": 3,
+    "question": "How do you rate yourselfon seeking periodic feedback from your superiors, peers and team members?",
+    "createdBy": "admin",
+    "updatedBy": "admin"
+  },
+  {
+    "questionId": "L4",
+    "questionSectionId": "56648810",
+    "level": "Leads",
+    "questionType": "Score",
+    "sequence": 4,
+    "question": "How do you rate yourself on ability to demonstrate a 'Make it happen' attitude to drive things to closure?",
+    "createdBy": "admin",
+    "updatedBy": "admin"
+  },
+  {
+    "questionId": "L5",
+    "questionSectionId": "56648810",
+    "level": "Leads",
+    "questionType": "Score",
+    "sequence": 5,
+    "question": "How do you rate your ability to manage your personal & professional priorities?",
+    "createdBy": "admin",
+    "updatedBy": "admin"
+  },
+  {
+    "questionId": "L6",
+    "questionSectionId": "56648810",
+    "level": "Leads",
+    "questionType": "Message",
+    "sequence": 6,
+    "messageType": "Training",
+    "question": "Please list down the topics under Leadership skills/Soft skills where you need training.",
+    "createdBy": "admin",
+    "updatedBy": "admin"
+  },
+  {
+    "questionId": "T1",
+    "questionSectionId": "936938825",
+    "level": "Leads",
+    "questionType": "Score",
+    "sequence": 1,
+    "question": "How do you rate yourself on practice of defining the project specific R&R and KRAs for your team members?",
+    "createdBy": "admin",
+    "updatedBy": "admin"
+  },
+  {
+    "questionId": "T2",
+    "questionSectionId": "936938825",
+    "level": "Leads",
+    "questionType": "Score",
+    "sequence": 2,
+    "question": "How do you rate yourself on ability to identify the developmental needs (upskilling/personality development) of your team and ensure it is taken care of?",
+    "createdBy": "admin",
+    "updatedBy": "admin"
+  },
+  {
+    "questionId": "T3",
+    "questionSectionId": "936938825",
+    "level": "Leads",
+    "questionType": "Score",
+    "sequence": 3,
+    "question": "How do you rate yourself on practice of having a periodic discussion with team members, providing insights to them on areas that they have done well on and areas to be strengthened?",
+    "createdBy": "admin",
+    "updatedBy": "admin"
+  },
+  {
+    "questionId": "T4",
+    "questionSectionId": "936938825",
+    "level": "Leads",
+    "questionType": "Score",
+    "sequence": 4,
+    "question": "How do you rate yourself on practice of recognizing and appreciating the good work done and behaviors that are aligned to our ways of working by your team in a timely manner?",
+    "createdBy": "admin",
+    "updatedBy": "admin"
+  },
+  {
+    "questionId": "T5",
+    "questionSectionId": "936938825",
+    "level": "Leads",
+    "questionType": "Score",
+    "sequence": 5,
+    "question": "How do you rate yourself on ability to understand personal & professional needs of your team members and provide required support?",
+    "createdBy": "admin",
+    "updatedBy": "admin"
+  },
+  {
+    "questionId": "T6",
+    "questionSectionId": "936938825",
+    "level": "Leads",
+    "questionType": "Score",
+    "sequence": 6,
+    "question": "How would you rate yourself on ability to positively work and collaborate with cross-functional teams?",
+    "createdBy": "admin",
+    "updatedBy": "admin"
+  },
+  {
+    "questionId": "T7",
+    "questionSectionId": "936938825",
+    "level": "Leads",
+    "questionType": "Score",
+    "sequence": 7,
+    "question": "How do you rate yourself on ability to promote the culture of questioning the status quo within your team?",
+    "createdBy": "admin",
+    "updatedBy": "admin"
+  },
+  {
+    "questionId": "T8",
+    "questionSectionId": "936938825",
+    "level": "Leads",
+    "questionType": "Score",
+    "sequence": 8,
+    "question": "How do you rate yourself on ability to actively listen to team's concerns, grievances and address it in a timely manner?",
+    "createdBy": "admin",
+    "updatedBy": "admin"
+  },
+  {
+    "questionId": "T9",
+    "questionSectionId": "936938825",
+    "level": "Leads",
+    "questionType": "Message",
+    "sequence": 9,
+    "messageType":"Strength",
+    "question": "Please mention the key team management aspects that you are performing well on",
+    "createdBy": "admin",
+    "updatedBy": "admin"
+  },
+  {
+    "questionId": "T10",
+    "questionSectionId": "936938825",
+    "level": "Leads",
+    "questionType": "Message",
+    "sequence": 10,
+    "messageType":"Focus",
+    "question": "Please mention the team management aspects that you can improvise and do more on",
+    "createdBy": "admin",
+    "updatedBy": "admin"
+  },
+  {
+    "questionId": "C1",
+    "questionSectionId": "926625307",
+    "level": "Leads",
+    "questionType": "Score",
+    "sequence": 1,
+    "question": "Do you have a clarity on all the different project level stakeholders you are are expected to engage in your current assignment?",
+    "createdBy": "admin",
+    "updatedBy": "admin"
+  },
+  {
+    "questionId": "C2",
+    "questionSectionId": "926625307",
+    "level": "Leads",
+    "questionType": "Score",
+    "sequence": 2,
+    "question": "How do you rate yourselfon ability to think like a customer and exhibit ownership towards delivering project commitments (Scope, Schedule, Quality)?",
+    "createdBy": "admin",
+    "updatedBy": "admin"
+  },
+  {
+    "questionId": "C3",
+    "questionSectionId": "926625307",
+    "level": "Leads",
+    "questionType": "Score",
+    "sequence": 3,
+    "question": "How do you rate yourselfon ability to work closely with project level stakeholders to identify opportunities for continuous improvements?",
+    "createdBy": "admin",
+    "updatedBy": "admin"
+  },
+  {
+    "questionId": "C4",
+    "questionSectionId": "926625307",
+    "level": "Leads",
+    "questionType": "Score",
+    "sequence": 4,
+    "question": "How do you rate yourselfon ability to drive continuous communication on highlighting the key risks and call to action with the respective project stakeholders?",
+    "createdBy": "admin",
+    "updatedBy": "admin"
+  },
+  {
+    "questionId": "C5",
+    "questionSectionId": "926625307",
+    "level": "Leads",
+    "questionType": "Score",
+    "sequence": 5,
+    "question": "How do you rate yourselfon ability to share project related metrics & insights proactively that helps in decision making and achieve customer objectives?",
+    "createdBy": "admin",
+    "updatedBy": "admin"
+  },
+  {
+    "questionId": "C6",
+    "questionSectionId": "926625307",
+    "level": "Leads",
+    "questionType": "Message",
+    "sequence": 6,
+    "messageType":"Strength",
+    "question": "Please mention the key customer aspects that you are performing well on",
+    "createdBy": "admin",
+    "updatedBy": "admin"
+  },
+  {
+    "questionId": "C7",
+    "questionSectionId": "926625307",
+    "level": "Leads",
+    "questionType": "Message",
+    "sequence": 7,
+    "messageType":"Focus",
+    "question": "Please mention the customer aspects that you can improvise and do more on",
+    "createdBy": "admin",
+    "updatedBy": "admin"
+  },
+  {
+    "questionId": "D1",
+    "questionSectionId": "78656103",
+    "level": "Leads",
+    "questionType": "Score",
+    "sequence": 1,
+    "question": "How do you rate your working knowledge on project management fundamentals (Project types, contract models, scope & effort management, project governance & risk management etc.)?",
+    "createdBy": "admin",
+    "updatedBy": "admin"
+  },
+  {
+    "questionId": "D2",
+    "questionSectionId": "78656103",
+    "level": "Leads",
+    "questionType": "Score",
+    "sequence": 2,
+    "question": "How do you rate your working knowledge on project management fundamentals (Project types, contract models, scope & effort management, project governance & risk management etc.)?",
+    "createdBy": "admin",
+    "updatedBy": "admin"
+  },
+  {
+    "questionId": "D3",
+    "questionSectionId": "78656103",
+    "level": "Leads",
+    "questionType": "Score",
+    "sequence": 3,
+    "question": "How do you rate your clarity & understanding of end-to-end delivery management process ranging from contract signing, commencement of project delivery and closure?",
+    "createdBy": "admin",
+    "updatedBy": "admin"
+  },
+  {
+    "questionId": "D4",
+    "questionSectionId": "78656103",
+    "level": "Leads",
+    "questionType": "Score",
+    "sequence": 4,
+    "question": "How do you rate your understanding of domain and technology concepts in-line with the industry level standards required for your current role?",
+    "createdBy": "admin",
+    "updatedBy": "admin"
+  },
+  {
+    "questionId": "D5",
+    "questionSectionId": "78656103",
+    "level": "Leads",
+    "questionType": "Score",
+    "sequence": 5,
+    "question": "How do you rate your ability to work with limited information, resources and steer through project outcomes?",
+    "createdBy": "admin",
+    "updatedBy": "admin"
+  },
+  {
+    "questionId": "D6",
+    "questionSectionId": "78656103",
+    "level": "Leads",
+    "questionType": "Message",
+    "sequence": 6,
+    "messageType":"Strength",
+    "question": "Please mention the key delivery management aspects that you are performing well on",
+    "createdBy": "admin",
+    "updatedBy": "admin"
+  },
+  {
+    "questionId": "D7",
+    "questionSectionId": "78656103",
+    "level": "Leads",
+    "questionType": "Message",
+    "sequence": 7,
+    "messageType":"Focus",
+    "question": "Please mention the delivery management aspects that you can improvise and do more on",
+    "createdBy": "admin",
+    "updatedBy": "admin"
+  }
+]

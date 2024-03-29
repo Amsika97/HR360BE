@@ -1,0 +1,2643 @@
+[{
+  "_id": {
+    "$oid": "65c46bff93405b37f2c8cb4a"
+  },
+  "surveyName": "S1",
+  "templateId": "T1",
+  "employeesResponses": [
+    {
+      "employeeId": "1005393",
+      "responsesList": [
+        {
+          "questionId": "L1",
+          "responses": [
+            {
+              "respondentCategory": "Self",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "L2",
+          "responses": [
+            {
+              "respondentCategory": "Self",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "L3",
+          "responses": [
+            {
+              "respondentCategory": "Self",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "L4",
+          "responses": [
+            {
+              "respondentCategory": "Self",
+              "responseType": "Score",
+              "responseScore": "10"
+            }
+          ]
+        },
+        {
+          "questionId": "L5",
+          "responses": [
+            {
+              "respondentCategory": "Self",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "L6",
+          "responses": [
+            {
+              "respondentCategory": "Self",
+              "responseType": "Message",
+              "responseMessage": "On the Stake Holder Indentification & Sales Training"
+            }
+          ]
+        },
+        {
+          "questionId": "T1",
+          "responses": [
+            {
+              "respondentCategory": "Self",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "T2",
+          "responses": [
+            {
+              "respondentCategory": "Self",
+              "responseType": "Score",
+              "responseScore": "10"
+            }
+          ]
+        },
+        {
+          "questionId": "T3",
+          "responses": [
+            {
+              "respondentCategory": "Self",
+              "responseType": "Score",
+              "responseScore": "10"
+            }
+          ]
+        },
+        {
+          "questionId": "T4",
+          "responses": [
+            {
+              "respondentCategory": "Self",
+              "responseType": "Score",
+              "responseScore": "10"
+            }
+          ]
+        },
+        {
+          "questionId": "T5",
+          "responses": [
+            {
+              "respondentCategory": "Self",
+              "responseType": "Score",
+              "responseScore": "10"
+            }
+          ]
+        },
+        {
+          "questionId": "T6",
+          "responses": [
+            {
+              "respondentCategory": "Self",
+              "responseType": "Score",
+              "responseScore": "10"
+            }
+          ]
+        },
+        {
+          "questionId": "T7",
+          "responses": [
+            {
+              "respondentCategory": "Self",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "T8",
+          "responses": [
+            {
+              "respondentCategory": "Self",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "T9",
+          "responses": [
+            {
+              "respondentCategory": "Self",
+              "responseType": "Message",
+              "responseMessage": "Proactively listening to the team needs & support during the critical period/ Sending the DSR to the Stake holder on a daily basis/Delivery the project on time with a quality"
+            }
+          ]
+        },
+        {
+          "questionId": "T10",
+          "responses": [
+            {
+              "respondentCategory": "Self",
+              "responseType": "Message",
+              "responseMessage": "Delegancy"
+            }
+          ]
+        },
+        {
+          "questionId": "C1",
+          "responses": [
+            {
+              "respondentCategory": "Self",
+              "responseType": "Score",
+              "responseScore": "10"
+            }
+          ]
+        },
+        {
+          "questionId": "C2",
+          "responses": [
+            {
+              "respondentCategory": "Self",
+              "responseType": "Score",
+              "responseScore": "10"
+            }
+          ]
+        },
+        {
+          "questionId": "C3",
+          "responses": [
+            {
+              "respondentCategory": "Self",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "C4",
+          "responses": [
+            {
+              "respondentCategory": "Self",
+              "responseType": "Score",
+              "responseScore": "10"
+            }
+          ]
+        },
+        {
+          "questionId": "C5",
+          "responses": [
+            {
+              "respondentCategory": "Self",
+              "responseType": "Score",
+              "responseScore": "10"
+            }
+          ]
+        },
+        {
+          "questionId": "C6",
+          "responses": [
+            {
+              "respondentCategory": "Self",
+              "responseType": "Message",
+              "responseMessage": "Quality product delivery/ Delivering the project on time/Pro-actively highlighting the risk to the stakeholder/Joining the Stake holder call on time"
+            }
+          ]
+        },
+        {
+          "questionId": "C7",
+          "responses": [
+            {
+              "respondentCategory": "Self",
+              "responseType": "Message",
+              "responseMessage": "Should learn to denying in committing certain works which is beyond the current timeline."
+            }
+          ]
+        },
+        {
+          "questionId": "D1",
+          "responses": [
+            {
+              "respondentCategory": "Self",
+              "responseType": "Score",
+              "responseScore": "10"
+            }
+          ]
+        },
+        {
+          "questionId": "D2",
+          "responses": [
+            {
+              "respondentCategory": "Self",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "D3",
+          "responses": [
+            {
+              "respondentCategory": "Self",
+              "responseType": "Score",
+              "responseScore": "10"
+            }
+          ]
+        },
+        {
+          "questionId": "D4",
+          "responses": [
+            {
+              "respondentCategory": "Self",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "D5",
+          "responses": [
+            {
+              "respondentCategory": "Self",
+              "responseType": "Message",
+              "responseMessage": "Planning/Team Collaboration/Communication/Quality delivery"
+            }
+          ]
+        },
+        {
+          "questionId": "D6",
+          "responses": [
+            {
+              "respondentCategory": "Self",
+              "responseType": "Message",
+              "responseMessage": "Governance"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employeeId": "1005393",
+      "responsesList": [
+        {
+          "questionId": "L1",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "3"
+            }
+          ]
+        },
+        {
+          "questionId": "L2",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "L3",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "2"
+            }
+          ]
+        },
+        {
+          "questionId": "L4",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "L5",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "T1",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "7"
+            }
+          ]
+        },
+        {
+          "questionId": "T2",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "T3",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "7"
+            }
+          ]
+        },
+        {
+          "questionId": "T4",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "7"
+            }
+          ]
+        },
+        {
+          "questionId": "T5",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "T6",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "7"
+            }
+          ]
+        },
+        {
+          "questionId": "T7",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "T8",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "7"
+            }
+          ]
+        },
+        {
+          "questionId": "T9",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Message",
+              "responseMessage": "Task Management"
+            }
+          ]
+        },
+        {
+          "questionId": "T10",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Message",
+              "responseMessage": "Relationship Building"
+            }
+          ]
+        },
+        {
+          "questionId": "C1",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "7"
+            }
+          ]
+        },
+        {
+          "questionId": "C2",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "6"
+            }
+          ]
+        },
+        {
+          "questionId": "C3",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "6"
+            }
+          ]
+        },
+        {
+          "questionId": "C4",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "7"
+            }
+          ]
+        },
+        {
+          "questionId": "C5",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "5"
+            }
+          ]
+        },
+        {
+          "questionId": "C6",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Message",
+              "responseMessage": "Understanding Customer context and ready work with them for taking tasks to closure"
+            }
+          ]
+        },
+        {
+          "questionId": "C7",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Message",
+              "responseMessage": "Ability to 'say No' or influence customer to take decisions"
+            }
+          ]
+        },
+        {
+          "questionId": "D1",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "5"
+            }
+          ]
+        },
+        {
+          "questionId": "D2",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "4"
+            }
+          ]
+        },
+        {
+          "questionId": "D3",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "5"
+            }
+          ]
+        },
+        {
+          "questionId": "D4",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "5"
+            }
+          ]
+        },
+        {
+          "questionId": "D5",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Message",
+              "responseMessage": "Open Mind to seek clarifications "
+            }
+          ]
+        },
+        {
+          "questionId": "D6",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Message",
+              "responseMessage": "effort estimation and test planning "
+            }
+          ]
+        },
+        {
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Message",
+              "responseMessage": "Ramya is a budding manager. She can develop 'Whole system thinking', focus on knowing the team better, enabling them to follow their style of work and be a reviewer to help them getting better. Increase the exposure in Test management and project management aspects. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employeeId": "1005481",
+      "responsesList": [
+        {
+          "questionId": "L1",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "7"
+            }
+          ]
+        },
+        {
+          "questionId": "L2",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "L3",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "7"
+            }
+          ]
+        },
+        {
+          "questionId": "L4",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "6"
+            }
+          ]
+        },
+        {
+          "questionId": "L5",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "7"
+            }
+          ]
+        },
+        {
+          "questionId": "T1",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "7"
+            }
+          ]
+        },
+        {
+          "questionId": "T2",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "6"
+            }
+          ]
+        },
+        {
+          "questionId": "T3",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "7"
+            }
+          ]
+        },
+        {
+          "questionId": "T4",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "T5",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "T6",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "6"
+            }
+          ]
+        },
+        {
+          "questionId": "T7",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "T8",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "7"
+            }
+          ]
+        },
+        {
+          "questionId": "T9",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Message",
+              "responseMessage": "Hosting project calls and ensuring the progress, Addressing concerns raised by the team members. "
+            }
+          ]
+        },
+        {
+          "questionId": "T10",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Message",
+              "responseMessage": "Planning can be improvised for the stabilizing productivity that being a concern by allocating tasks in advance, Have training sessions planned for team apart from Testing perspective to improvise their interpersonal skills."
+            }
+          ]
+        },
+        {
+          "questionId": "C1",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "C2",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "10"
+            }
+          ]
+        },
+        {
+          "questionId": "C3",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "C4",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "C5",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "7"
+            }
+          ]
+        },
+        {
+          "questionId": "C6",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Message",
+              "responseMessage": "Good rapport with the stake holders, Strong knowledge in functional areas thus ensuring customer confidence."
+            }
+          ]
+        },
+        {
+          "questionId": "C7",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Message",
+              "responseMessage": "Mostly satisfying in all aspects."
+            }
+          ]
+        },
+        {
+          "questionId": "D1",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "7"
+            }
+          ]
+        },
+        {
+          "questionId": "D2",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "6"
+            }
+          ]
+        },
+        {
+          "questionId": "D3",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "D4",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "D5",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Message",
+              "responseMessage": "Good in communicating with team to attain delivery goals by addressing their queries."
+            }
+          ]
+        },
+        {
+          "questionId": "D6",
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Message",
+              "responseMessage": "Should be able to involve in the metrics planning."
+            }
+          ]
+        },
+        {
+          "responses": [
+            {
+              "respondentCategory": "Skip Level Manager",
+              "responseType": "Message",
+              "responseMessage": "She is more capable of becoming a great leader with appropriate trainings and Oppurtunites. Be ready to take up any challenges coming your way."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employeeId": "1005393",
+      "responsesList": [
+        {
+          "questionId": "L1",
+          "responses": [
+            {
+              "respondentCategory": "Peer ",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "L2",
+          "responses": [
+            {
+              "respondentCategory": "Peer ",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "L3",
+          "responses": [
+            {
+              "respondentCategory": "Peer ",
+              "responseType": "Score",
+              "responseScore": "7"
+            }
+          ]
+        },
+        {
+          "questionId": "L4",
+          "responses": [
+            {
+              "respondentCategory": "Peer ",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "L5",
+          "responses": [
+            {
+              "respondentCategory": "Peer ",
+              "responseType": "Score",
+              "responseScore": "10"
+            }
+          ]
+        },
+        {
+          "questionId": "T1",
+          "responses": [
+            {
+              "respondentCategory": "Peer ",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "T2",
+          "responses": [
+            {
+              "respondentCategory": "Peer ",
+              "responseType": "Score",
+              "responseScore": "7"
+            }
+          ]
+        },
+        {
+          "questionId": "T3",
+          "responses": [
+            {
+              "respondentCategory": "Peer ",
+              "responseType": "Score",
+              "responseScore": "7"
+            }
+          ]
+        },
+        {
+          "questionId": "T4",
+          "responses": [
+            {
+              "respondentCategory": "Peer ",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "T5",
+          "responses": [
+            {
+              "respondentCategory": "Peer ",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "T6",
+          "responses": [
+            {
+              "respondentCategory": "Peer ",
+              "responseType": "Score",
+              "responseScore": "10"
+            }
+          ]
+        },
+        {
+          "questionId": "T7",
+          "responses": [
+            {
+              "respondentCategory": "Peer ",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "T8",
+          "responses": [
+            {
+              "respondentCategory": "Peer ",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "T9",
+          "responses": [
+            {
+              "respondentCategory": "Peer ",
+              "responseType": "Message",
+              "responseMessage": "she manages her work and life balance, possess good functional knowledge, puts commitment to complete the tasks and risk analysis."
+            }
+          ]
+        },
+        {
+          "questionId": "T10",
+          "responses": [
+            {
+              "respondentCategory": "Peer ",
+              "responseType": "Message",
+              "responseMessage": "ability to understand teams and individual's areas of concerns and there providing feedback to team periodically can better her managment skills.  "
+            }
+          ]
+        },
+        {
+          "questionId": "C1",
+          "responses": [
+            {
+              "respondentCategory": "Peer ",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "C2",
+          "responses": [
+            {
+              "respondentCategory": "Peer ",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "C3",
+          "responses": [
+            {
+              "respondentCategory": "Peer ",
+              "responseType": "Score",
+              "responseScore": "7"
+            }
+          ]
+        },
+        {
+          "questionId": "C4",
+          "responses": [
+            {
+              "respondentCategory": "Peer ",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "C5",
+          "responses": [
+            {
+              "respondentCategory": "Peer ",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "C6",
+          "responses": [
+            {
+              "respondentCategory": "Peer ",
+              "responseType": "Message",
+              "responseMessage": "Providing daily standard updates on risks and progress of the projects handled."
+            }
+          ]
+        },
+        {
+          "questionId": "C7",
+          "responses": [
+            {
+              "respondentCategory": "Peer ",
+              "responseType": "Message",
+              "responseMessage": "ability to communicate the issues with proper data with clarity can be helpful to improvise the customer aspects of skills."
+            }
+          ]
+        },
+        {
+          "questionId": "D1",
+          "responses": [
+            {
+              "respondentCategory": "Peer ",
+              "responseType": "Score",
+              "responseScore": "7"
+            }
+          ]
+        },
+        {
+          "questionId": "D2",
+          "responses": [
+            {
+              "respondentCategory": "Peer ",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "D3",
+          "responses": [
+            {
+              "respondentCategory": "Peer ",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "D4",
+          "responses": [
+            {
+              "respondentCategory": "Peer ",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "D5",
+          "responses": [
+            {
+              "respondentCategory": "Peer ",
+              "responseType": "Message",
+              "responseMessage": "Able to use management apps and utilities well."
+            }
+          ]
+        },
+        {
+          "questionId": "D6",
+          "responses": [
+            {
+              "respondentCategory": "Peer ",
+              "responseType": "Message",
+              "responseMessage": "Nil"
+            }
+          ]
+        },
+        {
+          "responses": [
+            {
+              "respondentCategory": "Peer ",
+              "responseType": "Message",
+              "responseMessage": "Nil"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employeeId": "1005393",
+      "responsesList": [
+        {
+          "questionId": "L1",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "L2",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "7"
+            }
+          ]
+        },
+        {
+          "questionId": "L3",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "5"
+            }
+          ]
+        },
+        {
+          "questionId": "L4",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "6"
+            }
+          ]
+        },
+        {
+          "questionId": "L5",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "6"
+            }
+          ]
+        },
+        {
+          "questionId": "T1",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "5"
+            }
+          ]
+        },
+        {
+          "questionId": "T2",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "5"
+            }
+          ]
+        },
+        {
+          "questionId": "T3",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "5"
+            }
+          ]
+        },
+        {
+          "questionId": "T4",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "6"
+            }
+          ]
+        },
+        {
+          "questionId": "T5",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "5"
+            }
+          ]
+        },
+        {
+          "questionId": "T6",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "6"
+            }
+          ]
+        },
+        {
+          "questionId": "T7",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "6"
+            }
+          ]
+        },
+        {
+          "questionId": "T8",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "5"
+            }
+          ]
+        },
+        {
+          "questionId": "T9",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Message",
+              "responseMessage": "Supporting team in meeting project timelines"
+            }
+          ]
+        },
+        {
+          "questionId": "T10",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "Unbiased 360 assessment, open communication and feedback session"
+            }
+          ]
+        },
+        {
+          "questionId": "C1",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "C2",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "6"
+            }
+          ]
+        },
+        {
+          "questionId": "C3",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "6"
+            }
+          ]
+        },
+        {
+          "questionId": "C4",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "7"
+            }
+          ]
+        },
+        {
+          "questionId": "C5",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "5"
+            }
+          ]
+        },
+        {
+          "questionId": "C6",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Message",
+              "responseMessage": "Scope"
+            }
+          ]
+        },
+        {
+          "questionId": "C7",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Message",
+              "responseMessage": "Metrics, Risk identification and stakeholder communication, adherence to schedule"
+            }
+          ]
+        },
+        {
+          "questionId": "D1",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "3"
+            }
+          ]
+        },
+        {
+          "questionId": "D2",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "2"
+            }
+          ]
+        },
+        {
+          "questionId": "D3",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "3"
+            }
+          ]
+        },
+        {
+          "questionId": "D4",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "3"
+            }
+          ]
+        },
+        {
+          "questionId": "D5",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Message",
+              "responseMessage": "Domain Knowledge"
+            }
+          ]
+        },
+        {
+          "questionId": "D6",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Message",
+              "responseMessage": "Exposure is minimal to assess more on these questions."
+            }
+          ]
+        },
+        {
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Message",
+              "responseMessage": "Planning and organising more on Team Management activities by extending the time to learn and get exposure on the required elements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employeeId": "1005481",
+      "responsesList": [
+        {
+          "questionId": "L1",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "L2",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "L3",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "L4",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "L5",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "T1",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "T2",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "T3",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "10"
+            }
+          ]
+        },
+        {
+          "questionId": "T4",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "T5",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "T6",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "T7",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "T8",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "T9",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Message",
+              "responseMessage": "Functionality Coverage, Proper resource allocation, Cross skilling, Mastering the given task, Bringing up the second line, Assertive communication skills, Giving periodic feedbacks to team, Replying client SPOCs with right content, and Follow up activities"
+            }
+          ]
+        },
+        {
+          "questionId": "T10",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Message",
+              "responseMessage": "Client Status Report(s) and its accuracy, Can share the wealth of knowledge to Larger Forum (outside the current team), Involve more in Tech Interventions "
+            }
+          ]
+        },
+        {
+          "questionId": "C1",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "10"
+            }
+          ]
+        },
+        {
+          "questionId": "C2",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "C3",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "C4",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "C5",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "C6",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Message",
+              "responseMessage": "Ensuring Project Scope is covered with clarity and approvals"
+            }
+          ]
+        },
+        {
+          "questionId": "C7",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Message",
+              "responseMessage": "Negotiation skills during Capacity Planning; Bit more aggressive when any meaningless escalations raised"
+            }
+          ]
+        },
+        {
+          "questionId": "D1",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "7"
+            }
+          ]
+        },
+        {
+          "questionId": "D2",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "7"
+            }
+          ]
+        },
+        {
+          "questionId": "D3",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "D4",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "D5",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Message",
+              "responseMessage": "Scope coverage, Team task allocation, Follow up and closure "
+            }
+          ]
+        },
+        {
+          "questionId": "D6",
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Message",
+              "responseMessage": "Giving feedback to team members on the mistakes, Team status report coverage"
+            }
+          ]
+        },
+        {
+          "responses": [
+            {
+              "respondentCategory": "Direct Manager",
+              "responseType": "Message",
+              "responseMessage": "Saranya is doing well and Wish her to improve on the given feedbacks"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employeeId": "1005393",
+      "responsesList": [
+        {
+          "questionId": "L1",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "L2",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "L3",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "L4",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "L5",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "T1",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "T2",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "T3",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "T4",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "7"
+            }
+          ]
+        },
+        {
+          "questionId": "T5",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "T6",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "T7",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "7"
+            }
+          ]
+        },
+        {
+          "questionId": "T8",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "7"
+            }
+          ]
+        },
+        {
+          "questionId": "T9",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Message",
+              "responseMessage": "Coordination and helping the team whenever we need support."
+            }
+          ]
+        },
+        {
+          "questionId": "T10",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Message",
+              "responseMessage": "NA"
+            }
+          ]
+        },
+        {
+          "questionId": "C1",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "6"
+            }
+          ]
+        },
+        {
+          "questionId": "C2",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "C3",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "C4",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "C5",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "C6",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Message",
+              "responseMessage": "Keep on checking with team for the project updates."
+            }
+          ]
+        },
+        {
+          "questionId": "C7",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Message",
+              "responseMessage": "NA"
+            }
+          ]
+        },
+        {
+          "questionId": "D1",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "7"
+            }
+          ]
+        },
+        {
+          "questionId": "D2",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "D3",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "D4",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "7"
+            }
+          ]
+        },
+        {
+          "questionId": "D5",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Message",
+              "responseMessage": "From start to end of the projects, she is very helpful."
+            }
+          ]
+        },
+        {
+          "questionId": "D6",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Message",
+              "responseMessage": "NA"
+            }
+          ]
+        },
+        {
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Message",
+              "responseMessage": "NA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employeeId": "1005481",
+      "responsesList": [
+        {
+          "questionId": "L1",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "L2",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "L3",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "10"
+            }
+          ]
+        },
+        {
+          "questionId": "L4",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "L5",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "10"
+            }
+          ]
+        },
+        {
+          "questionId": "T1",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "10"
+            }
+          ]
+        },
+        {
+          "questionId": "T2",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "10"
+            }
+          ]
+        },
+        {
+          "questionId": "T3",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "T4",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "T5",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "T6",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "T7",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "T8",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "T9",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Message",
+              "responseMessage": "Grooming the Team and supporting in expected situations"
+            }
+          ]
+        },
+        {
+          "questionId": "T10",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Message",
+              "responseMessage": "Understand the basic needs of the team "
+            }
+          ]
+        },
+        {
+          "questionId": "C1",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "C2",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "C3",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "C4",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "10"
+            }
+          ]
+        },
+        {
+          "questionId": "C5",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "10"
+            }
+          ]
+        },
+        {
+          "questionId": "C6",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Message",
+              "responseMessage": "completing the project before the deadline and frequent supervising of projects"
+            }
+          ]
+        },
+        {
+          "questionId": "C7",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Message",
+              "responseMessage": "Nothing"
+            }
+          ]
+        },
+        {
+          "questionId": "D1",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "D2",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "D3",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "D4",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "D5",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Message",
+              "responseMessage": "Ontime delivery,Project handling"
+            }
+          ]
+        },
+        {
+          "questionId": "D6",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Message",
+              "responseMessage": "Delivery before deadline"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employeeId": "1005481",
+      "responsesList": [
+        {
+          "questionId": "L1",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "L2",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "L3",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "10"
+            }
+          ]
+        },
+        {
+          "questionId": "L4",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "L5",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "10"
+            }
+          ]
+        },
+        {
+          "questionId": "T1",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "10"
+            }
+          ]
+        },
+        {
+          "questionId": "T2",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "10"
+            }
+          ]
+        },
+        {
+          "questionId": "T3",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "T4",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "T5",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "T6",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "T7",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "T8",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "8"
+            }
+          ]
+        },
+        {
+          "questionId": "T9",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Message",
+              "responseMessage": "Grooming the Team and supporting in expected situations"
+            }
+          ]
+        },
+        {
+          "questionId": "T10",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Message",
+              "responseMessage": "Understand the basic needs of the team "
+            }
+          ]
+        },
+        {
+          "questionId": "C1",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "C2",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "C3",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "C4",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "10"
+            }
+          ]
+        },
+        {
+          "questionId": "C5",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "10"
+            }
+          ]
+        },
+        {
+          "questionId": "C6",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Message",
+              "responseMessage": "completing the project before the deadline and frequent supervising of projects"
+            }
+          ]
+        },
+        {
+          "questionId": "C7",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Message",
+              "responseMessage": "Nothing"
+            }
+          ]
+        },
+        {
+          "questionId": "D1",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "D2",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "D3",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "D4",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Score",
+              "responseScore": "9"
+            }
+          ]
+        },
+        {
+          "questionId": "D5",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Message",
+              "responseMessage": "Ontime delivery,Project handling"
+            }
+          ]
+        },
+        {
+          "questionId": "D6",
+          "responses": [
+            {
+              "respondentCategory": "Direct Reportee",
+              "responseType": "Message",
+              "responseMessage": "Delivery before deadline"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "createdAt": "2024-02-08T11:21:59.389960200",
+  "updatedAt": "2024-02-08T11:21:59.391148900",
+  "createdBy": "",
+  "updatedBy": "",
+  "_class": "com.maveric.hr360.entity.SurveyDetails"
+}]
